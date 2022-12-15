@@ -350,7 +350,7 @@ Please find all these core project documents, including the:
 
 information in our [`containerd/project`](https://github.com/containerd/project) repository.
 
-## Adoption
+## Adoption#################
 
 Interested to see who is using containerd? Are you using containerd in a project?
 Please add yourself via pull request to our [ADOPTERS.md](./ADOPTERS.md) file.
